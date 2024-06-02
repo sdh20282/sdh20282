@@ -4,6 +4,8 @@
 
 [![sdh20282's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdh20282&include_all_commits=true&show_icons=true&theme=react)](https://github.com/sdh20282/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdh20282&layout=compact)
+
 <!--
 **sdh20282/sdh20282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
